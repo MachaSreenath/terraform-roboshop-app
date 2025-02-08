@@ -38,9 +38,9 @@ variable "iam_instance_profile" {
 }
 
 variable "app_alb_listener_arn" {
-  
+
 }
 
 variable "rule_priority" {
-  
+
 }
